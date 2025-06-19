@@ -171,3 +171,6 @@ yarn dev
 <p align="center">
   <strong>TicketNest</strong> – Đặt vé dễ dàng, trải nghiệm sự kiện tuyệt vời!
 </p>
+<p align="center">
+  theanhntp@gmail.com
+</p>
