@@ -8,7 +8,6 @@
 <p align="center">
   https://theanhntp.github.io/TicketNest-Demo/home/
 </p>
----
 
 ## 🎯 Mục Tiêu Hệ Thống
 
